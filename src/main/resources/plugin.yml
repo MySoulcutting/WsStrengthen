@@ -1,3 +1,7 @@
-name: WsStrengThen
+name: WsStrengthen
 version: '${project.version}'
-main: cn.whitesoul.wsstrengthen.WsStrengThen
+main: cn.whitesoul.wsstrengthen.WsStrengthen
+description: Strengthen plugin for Minecraft
+commands:
+  test:
+    description: test
